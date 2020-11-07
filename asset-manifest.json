@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WJ_Commerce.github.io/static/css/main.7851aae2.chunk.css",
-    "main.js": "/WJ_Commerce.github.io/static/js/main.3809022e.chunk.js",
-    "main.js.map": "/WJ_Commerce.github.io/static/js/main.3809022e.chunk.js.map",
+    "main.js": "/WJ_Commerce.github.io/static/js/main.88328859.chunk.js",
+    "main.js.map": "/WJ_Commerce.github.io/static/js/main.88328859.chunk.js.map",
     "runtime-main.js": "/WJ_Commerce.github.io/static/js/runtime-main.a504e9d2.js",
     "runtime-main.js.map": "/WJ_Commerce.github.io/static/js/runtime-main.a504e9d2.js.map",
     "static/js/2.75407fb9.chunk.js": "/WJ_Commerce.github.io/static/js/2.75407fb9.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a504e9d2.js",
     "static/js/2.75407fb9.chunk.js",
     "static/css/main.7851aae2.chunk.css",
-    "static/js/main.3809022e.chunk.js"
+    "static/js/main.88328859.chunk.js"
   ]
 }
