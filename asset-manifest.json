@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/WJ_Commerce.github.io/static/css/main.7851aae2.chunk.css",
-    "main.js": "/WJ_Commerce.github.io/static/js/main.88328859.chunk.js",
-    "main.js.map": "/WJ_Commerce.github.io/static/js/main.88328859.chunk.js.map",
-    "runtime-main.js": "/WJ_Commerce.github.io/static/js/runtime-main.a504e9d2.js",
-    "runtime-main.js.map": "/WJ_Commerce.github.io/static/js/runtime-main.a504e9d2.js.map",
-    "static/js/2.75407fb9.chunk.js": "/WJ_Commerce.github.io/static/js/2.75407fb9.chunk.js",
-    "static/js/2.75407fb9.chunk.js.map": "/WJ_Commerce.github.io/static/js/2.75407fb9.chunk.js.map",
-    "static/js/3.8b982219.chunk.js": "/WJ_Commerce.github.io/static/js/3.8b982219.chunk.js",
-    "static/js/3.8b982219.chunk.js.map": "/WJ_Commerce.github.io/static/js/3.8b982219.chunk.js.map",
-    "index.html": "/WJ_Commerce.github.io/index.html",
-    "static/css/main.7851aae2.chunk.css.map": "/WJ_Commerce.github.io/static/css/main.7851aae2.chunk.css.map",
-    "static/js/2.75407fb9.chunk.js.LICENSE.txt": "/WJ_Commerce.github.io/static/js/2.75407fb9.chunk.js.LICENSE.txt",
-    "static/media/logo.2d27ead7.svg": "/WJ_Commerce.github.io/static/media/logo.2d27ead7.svg"
+    "main.css": "/WJ_Commerce/static/css/main.7851aae2.chunk.css",
+    "main.js": "/WJ_Commerce/static/js/main.88328859.chunk.js",
+    "main.js.map": "/WJ_Commerce/static/js/main.88328859.chunk.js.map",
+    "runtime-main.js": "/WJ_Commerce/static/js/runtime-main.f464726f.js",
+    "runtime-main.js.map": "/WJ_Commerce/static/js/runtime-main.f464726f.js.map",
+    "static/js/2.75407fb9.chunk.js": "/WJ_Commerce/static/js/2.75407fb9.chunk.js",
+    "static/js/2.75407fb9.chunk.js.map": "/WJ_Commerce/static/js/2.75407fb9.chunk.js.map",
+    "static/js/3.8b982219.chunk.js": "/WJ_Commerce/static/js/3.8b982219.chunk.js",
+    "static/js/3.8b982219.chunk.js.map": "/WJ_Commerce/static/js/3.8b982219.chunk.js.map",
+    "index.html": "/WJ_Commerce/index.html",
+    "static/css/main.7851aae2.chunk.css.map": "/WJ_Commerce/static/css/main.7851aae2.chunk.css.map",
+    "static/js/2.75407fb9.chunk.js.LICENSE.txt": "/WJ_Commerce/static/js/2.75407fb9.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/WJ_Commerce/static/media/logo.2d27ead7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a504e9d2.js",
+    "static/js/runtime-main.f464726f.js",
     "static/js/2.75407fb9.chunk.js",
     "static/css/main.7851aae2.chunk.css",
     "static/js/main.88328859.chunk.js"
